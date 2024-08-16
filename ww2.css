@@ -1,0 +1,21 @@
+footer {
+    display: block;
+}
+
+.footer-3 .footer-top {
+    padding: 25px 1px 25px;
+}
+
+.addressFooter li p {
+    padding-left: 25px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    /* flex-wrap: nowrap; */
+}
+
+.col-3 ul li {
+    list-style: none;
+}
